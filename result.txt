@@ -1,0 +1,21 @@
+1.txt
+5
+Moscow Mayor Yuri Luzhkov, a potential presidential contender, accused state authorities of responding slowly to the
+attacks. Reeling off a list of terrorist incidents in recent years, Luzhkov said, "What measures did the state take?
+No measures were taken. . . .
+It was only after those terrible explosions in Moscow that our state authorities started realizing that some measures
+must be taken." (c) W.P. https://www.washingtonpost.com/wp-srv/inatl/daily/sept99/moscow17.htm
+2.txt
+5
+In his remarks, however, Mr. Putin dismissed accusations of Kremlin involvement or political interference
+as ''utter nonsense.'' And he seemed eager to reassure investors about stability in Russia's economy.
+The Yukos stock price and the broader market have rebounded from the steep drop after Mr. Lebedev's arrest in July.
+Last month, Russia approved Yukos's merger with Sibneft to create the world's fifth-largest publicly traded oil company.
+(c) TheNYTimes https://www.nytimes.com/2003/09/22/business/putin-portrays-yukos-inquiries-as-an-isolated-criminal-matter.html
+3.txt
+5
+Rampant racism and crime. A financial culture that encourages the exploitation of anyone and everyone in sight,
+all in the name of profit. Unequalled levels of violence for a country who's not at war. Political division that's so
+strong, people are discussing civil war. Corporate lobbying and corruption of public officials.
+Rejection of scientific conclusions in favour of making the rich even richer. The list goes on and on.
+(c) - some post on reddit
